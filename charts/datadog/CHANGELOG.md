@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.32.8
+
+* Add extraObjects[] array to allow creating additional kubernetes resources
+
 ## 3.32.7
 
 * Update the cluster agent network policy to allow telemetry submission.
